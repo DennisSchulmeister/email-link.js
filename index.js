@@ -35,7 +35,7 @@ function enableEmailLinks(selector, dataAttributeName) {
     dataAttributeName = dataAttributeName || "emailAddress";
 
     document.querySelectorAll(selector).forEach(link => {
-        // Get the e-mail address and replace the sapce with an @ sign
+        // Get the e-mail address and replace the space with an @ sign
         let email = link.dataset[dataAttributeName];
         if (email === "" || !email) email = link.innerHTML;
 
