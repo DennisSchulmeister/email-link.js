@@ -1,6 +1,6 @@
 {
   "name": "email-link.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny utility to hide email adresses from spammers",
   "main": "index.js",
   "repository": "git@github.com:DennisSchulmeister/email-link.js.git",
