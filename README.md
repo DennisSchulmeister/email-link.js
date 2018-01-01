@@ -4,6 +4,9 @@ email-link.js - A tiny utility to hide e-mail addresses from spammers
 What is it
 ----------
 
+This is just a tiny utility library to hide plain-text e-mail addresses
+from your website.
+
 Installation
 ------------
 
